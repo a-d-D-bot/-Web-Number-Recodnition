@@ -1,0 +1,6 @@
+# 模型文件太大(400MB)，不上传。clone 后先跑 train.py 生成
+sentiment-model/
+
+# Python
+__pycache__/
+*.pyc

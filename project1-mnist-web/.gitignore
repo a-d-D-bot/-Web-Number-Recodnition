@@ -1,6 +1,0 @@
-# MNIST 数据集（自动下载，不需要上传）
-data/
-
-# Python
-__pycache__/
-*.pyc
